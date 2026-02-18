@@ -1,0 +1,37 @@
+{
+  "camera": {
+    "yaw": 86.7,
+    "pitch": 42.9,
+    "distance": 220.0,
+    "target": [0.0, 0.725, 0.0]
+  },
+  "geometry": {
+    "road_width": 8.0,
+    "kerb_width": 1.0,
+    "kerb_height": 0.08,
+    "grass_width": 4.0,
+    "wall_height": 1.5,
+    "wall_thickness": 1.5,
+    "ground_tile_size": 30.0
+  },
+  "ai_line": {
+    "default_speed": 75.0,
+    "min_corner_speed": 35.0
+  },
+  "surfaces": {
+    "road_friction": 0.97,
+    "kerb_friction": 0.93,
+    "grass_friction": 0.60
+  },
+  "info": {
+    "name": "Touch and Go",
+    "city": "Martina Franca",
+    "province": "TA",
+    "region": "Puglia",
+    "country": "Italy",
+    "length": "900",
+    "pitboxes": "5",
+    "direction": "clockwise",
+    "geotags": ["40.7010", "17.3352"]
+  }
+}
