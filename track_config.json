@@ -1,4 +1,8 @@
 {
+  "slug": "touch_and_go",
+  "layouts": {
+    "reverse": true
+  },
   "camera": {
     "yaw": 86.7,
     "pitch": 42.9,
@@ -8,10 +12,9 @@
   "geometry": {
     "road_width": 8.0,
     "kerb_width": 1.0,
-    "kerb_height": 0.08,
-    "grass_width": 4.0,
+    "grass_width": 2.0,
     "wall_height": 1.5,
-    "wall_thickness": 1.5,
+    "wall_thickness": 1.0,
     "ground_tile_size": 30.0
   },
   "ai_line": {
